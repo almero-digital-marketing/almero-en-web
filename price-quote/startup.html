@@ -1,0 +1,90 @@
+---
+rel: /rfp/starting
+---
+<label class="caption" for="status">Current level of the project up to this moment</label>
+<label class="description" for="status">The level of developing, on which the project is up to this moment, determines the type of the workload   and the period of time that we will have to create the marketing strategy.</label>
+<div class="checkitem">
+	<input id="status-1" type="radio" value="On a planning level" name="status[]">
+	<label class="details" for="status-1">On a planning level</label>
+</div>
+<div class="checkitem">
+	<input id="status-2" type="radio" value="In a process of developing" name="status[]">
+	<label class="details" for="status-2">In a process of developing</label>
+</div>
+<div class="checkitem">
+	<input id="status-3" type="radio" value="Alredy started" name="status[]">
+	<label class="details" for="status-3">The main part of the developing of the project is done and the product or the service is aready on the market</label>
+</div>
+
+<label class="caption" for="demand">A preliminary prediction for the interest to the product</label>
+<label class="description" for="demand">The strategy for the developing of the product or the service depends on this, if there is already any interest to such kind of a product or service or you will offer a completely new offer or service, without any analogue on the market</label>
+<div class="checkitem">
+	<input id="demand-1" type="radio" value="A well-known product or service" name="demand[]">
+	<label class="details" for="demand-1">The product or the service is well-know on the mar</label>
+</div>
+<div class="checkitem">
+	<input id="demand-2" type="radio" value="A brand new service or product" name="demand[]">
+	<label class="details" for="demand-2">A new product or service that is not yet well-know on the market</label>
+</div>
+
+<label class="caption" for="assets">Available marketing materials</label>
+<label class="description" for="assets">For us  it is important to know if you have any high-quality marketing materials – professional images or video materials, which we can use while we are working on the project.</label>
+<div class="checkitem">
+	<input id="assets-1" type="checkbox" value="Available content that is presenting your product or service" name="assets[]">
+	<label class="details" for="assets-1">Available content that is presenting your product or service</label>
+</div>
+<div class="checkitem">
+	<input id="assets-2" type="checkbox" value="Professional images" name="assets[]">
+	<label class="details" for="assets-2">Professional images</label>
+</div>
+<div class="checkitem">
+	<input id="assets-3" type="checkbox" value="Video materials that are presenting your products or service" name="assets[]">
+	<label class="details" for="assets-3">Video materials that are presenting your products or service</label>
+</div>
+<label class="details" for="assets">Other video materials that can be used</label>
+<br>
+<textarea name="assets[]"></textarea>
+<br>
+
+<label class="caption" for="budget">An advertising budget</label>
+<label class="description" for="budget">The difficulties in the reacing of the targets mostly depends of the presence of an advertising budget.or us it is important to know if there will be any advertising budget from the beginning. </label>
+<div class="checkitem">
+	<input id="budget-1" type="radio" value="Yes, there is an exact advertising budget" name="budget[]">
+	<label class="details" for="budget-1">Yes, there is a exact advertising budget</label>
+</div>
+<div class="checkitem">
+	<input id="budget-2" type="radio" value="An Advertising budget" name="budget[]">
+	<label class="details" for="budget-2">Yes, there is an advertising advertising budget, but its amount is not defined</label>
+</div>
+<div class="checkitem">
+	<input id="budget-3" type="radio" value="Without any advertising budget" name="budget[]">
+	<label class="details" for="budget-3">No, initially there wouldn`t be any advertising budget and it can be exude only after we get any sales.</label>
+</div>
+
+<label class="caption" for="time">Time frame for the targets</label>
+<label class="description" for="time">For determining of the price of the combination of services we can offer it is important for us to know in what period of time you want to reach your targets</label>
+<div class="checkitem">
+	<input id="time-1" type="radio" value="1 year" name="time[]">
+	<label class="details" for="time-1">1 year</label>
+</div>
+<div class="checkitem">
+	<input id="time-2" type="radio" value="2 years" name="time[]">
+	<label class="details" for="time-2">2 years</label>
+</div>
+<div class="checkitem">
+	<input id="time-3" type="radio" value="Long-term" name="time[]">
+	<label class="details" for="time-3">Long-term</label>
+</div>
+
+<label class="caption" for="product">Information about the service or the product</label>
+<label class="description" for="product">Please give us some information about the product or service, on which we will be working, so this will allow us to offer you the most appropriate method for reaching your targets.</label>
+<textarea name="product"></textarea>
+<br>
+<div class="contacts">
+	<label class="caption">Contact information</label>
+	<label class="description">In 5 working das, after we received the request, you will get an e-mail with a concrete work offer and price. If we have some additional questions, we will get in touch with you on the telephone number or via the e-mail address that you have pointed in the request.</label>
+	<input type="text" name="name" placeholder="Name" required/>
+	<input type="text" name="phone" placeholder="A telephone number" required/>
+	<input type="text" name="from" placeholder="An e-mail" required/>
+	<input type="text" name="web" placeholder="An existing website"/>
+</div>
