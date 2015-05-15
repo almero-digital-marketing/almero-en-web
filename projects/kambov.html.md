@@ -2,7 +2,7 @@
 layout: project
 rel: /portfolio/kambov
 highlight: /about/kambov/highlight
-title: Dr. Mladen Kambov
+title: Dental clinic "Kambov"
 caption: Dental clinic
 description: If you need a good dentist, our main responsibility is to make you feel comfortable in the dentist office and to leave with beautiful and healthly teeths.
 order: 4
