@@ -11,33 +11,34 @@ description: The main part of the video materials was the story of the conductor
 summary: The main part of the presentation of Viktor Ilieff was the creaating of the audio and video materials. The best  way to present an artist is the honestly first-person sharing of his work. This is why the significant part of the video materials had been taken from the first-person story of the conductor and his personal successes and what he thinks about his art.  
 image: /business/viktorilieff/multimedia.jpg
 ref:
-  - image: /portfolio/viktorilieff/h2.jpg
-    title: Atlas Symphony Orchestra - Joseph Haydn - Symphony No. 85, II movement
+  - video: http://www.youtube.com/embed/CP3qmuSCC5Q
+    title: Atlas Symphony - Joseph Haydn
+    description: 'This "favorite symphony " of Marie Antoinette had probably won her sympathies with its cheerful folkloristic motives and reminded her of her past and present. '
     url: http://www.youtube.com/watch?v=CP3qmuSCC5Q
-  - image: /portfolio/viktorilieff/sn.jpg
-    title: Atlas Symphony Orchestra - Robert Schumann - Symphony No. 2, Op. 61 II movement
+  - video: http://www.youtube.com/embed/CYOa0d9dABs
+    title: Atlas Symphony - Robert Schumann
+    description: ' On one side the title "Scherzo" marked by the composer provides an interesting juxtaposition to the emotional turmoil which Schumann was struggling at the time. '
     url: http://www.youtube.com/watch?v=CYOa0d9dABs
-  - image: /portfolio/viktorilieff/h4.jpg
-    title: Atlas Symphony Orchestra - Joseph Haydn - Symphony No. 85, IV movement 
+  - video: http://www.youtube.com/embed/mUPxtsIKH7Y
+    title: Atlas Symphony - Joseph Haydn
+    description: 'The fourth movement attracts the listener immediately with it´s joyful character. During the musical preparation a very fast, cheery tempo was desired.'
     url: http://www.youtube.com/watch?v=mUPxtsIKH7Y
-  - image: /portfolio/viktorilieff/foundation.jpg
-    title: Creating of an orchestra
-    url: http://www.youtube.com/watch?v=DBn3ycS_aSQ
-  - image: /portfolio/viktorilieff/parsifal.jpg
-    title: Parsifal remix
+  - video: http://www.youtube.com/embed/BZI0yyCZxUY
+    title: Parsifal Incerto (Parsifal In Doubt)
+    description: 'Viktor Ilieff in collaboration with Grand Théâtre de Luxembourg to write a new original opera together with charismatic writer/director Stéphane Ghislain Roussel.'
     url: http://www.youtube.com/watch?v=BZI0yyCZxUY
-  - image: /portfolio/viktorilieff/conductor.jpg
-    title: To be a conductor
-    url: http://www.youtube.com/watch?v=BZI0yyCZxUY
-  - image: /portfolio/viktorilieff/color.jpg
-    title: To find the colour of the orchestra
-    url: http://www.youtube.com/watch?v=oPW8shSh_dE
-  - image: /portfolio/viktorilieff/sylvia.jpg
-    title: A monocle, a portrait of Sylvia von Harden
+  - video: http://www.youtube.com/embed/oPW8shSh_dE
+    title: Finding an orchestral color
+    description: 'To find an orchestral color suitable for each composition or phrase is an important task for many conductors. A single note played with warmer or cooler sound can transmit completely different message.'
+    url: http://www.youtube.com/l-l5_PtR2VA
+  - video: http://www.youtube.com/embed/l-l5_PtR2VA
+    title: Monocle-a story about feminism 
+    description: 'The challenge was to present a historical figure of the famous journalist from Berlin during the 1920s, which travels through time in abstract terms, and the transformation of a woman.'
     url: http://www.youtube.com/watch?v=l-l5_PtR2VA
-  - image: /portfolio/viktorilieff/art.jpg
-    title: The combination of different types of art
-    url: http://www.youtube.com/watch?v=l-8IYd3HOqF4g
+  - video: http://www.youtube.com/embed/8IYd3HOqF4g
+    title: Bringing different art forms together
+    description: 'It is generally agreed upon, that the art of composition is the most personal form of self-expression. It is a form of a music theather where you can find your`s inner voice and identity.'
+    url: https://www.youtube.com/watch?v=8IYd3HOqF4g
 ---
 # Tell your story
 The main part of the presentation of Viktor Ilieff was the creaating of the audio and video materials. The best  way to present an artist is the honestly first-person sharing of his work. This is why the significant part of the video materials had been taken from the first-person story of the conductor and his personal successes and what he thinks about his art. 

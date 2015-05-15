@@ -11,32 +11,41 @@ description: We developed the conception for the photo session and the video pre
 featured: true
 image: /business/fillers/img-24.jpg 
 ref:
-  - image: /business/fillers/foto_1.png
+  - video: https://www.youtube.com/embed/ZthcMPaitV8
     title: Contour and volume of the lips, wrinkles in smokers
+    description: 'The effect can be seen almost immediately after the procedure, but the maximum of the results came after the swelling, the erythema and the potential hematomas are gone, which usually occurs in one to two weeks after the procedure.'
     url: https://www.youtube.com/watch?v=ZthcMPaitV8
-  - image: /business/fillers/foto_2.png
-    title: Crows feet and and sagging eyelids and eyebrows
+  - video: https://www.youtube.com/embed/m_xDtZ4ZhGw
+    title: Crows feet and sagging eyelids and eyebrows
+    description: 'Crows feet, sagging eyelids and eyebrows can be treated in the eyes area. The dark circles under the eyes can also be succesfully affected, too. For a better skin irradiance and for a better skin look can be used biorevitalizing products.'
     url: https://www.youtube.com/watch?v=m_xDtZ4ZhGw
-  - image: /business/fillers/foto_3.png
+  - video: https://www.youtube.com/embed/IlQjeNBMV5c
     title: Wrinkles on the forehead lines
+    description: 'In the area of the forehead lines there can be commonly seen a loss of elasticity of the skin, which cases a drooping of the eyelid. For a recovery of this issue the upper part of the orbicularis oculi should be treated.'
     url: https://www.youtube.com/watch?v=IlQjeNBMV5c
-  - image: /business/fillers/foto_4.png
+  - video: https://www.youtube.com/embed/OQAcPEpG5OI
     title: Wrinkles from the nose to the mouth
+    description: 'In the older ages and after the loss of elasticity of the skin these wrinkles are getting deeper and affect a tired look of the face. The treating of this zone is one of the most common and safe procedures witn dermal fillers.'
     url: https://www.youtube.com/watch?v=OQAcPEpG5OI
-  - image: /business/fillers/foto_5.png
+  - video: https://www.youtube.com/embed/dsZj3twADgY
     title: Facial Sculpting
+    description: 'In the older ages the middle third of the face loss its volume on account of the lower third. The correct method of recocery of the whole face is to treat the area of cheekbones, because there is the biggest loss of volume.'
     url: https://www.youtube.com/watch?v=dsZj3twADgY
-  - image: /business/fillers/foto_6.png
+  - video: https://www.youtube.com/embed/jFSWBIEdCLY
     title: Mesotherapy
+    description: 'The mesotherapy is a method that is widely used in France from more than 50 years, instead of Bulgaria where it is used since recently. The effect is extremely positive in men and women and it is getting more and more used from the dermatologists.'
     url: https://www.youtube.com/watch?v=jFSWBIEdCLY
-  - image: /business/fillers/foto_7.png
+  - video: https://www.youtube.com/embed/wwNtg9FQUoA
     title: Anesthesia
+    description: 'The procedure in the are of the face can be treated with an anesthesia and to be absolutely harmless for the patient, without any complications. There three main types of anesthesia:injectable (thermal), with a spreading and with a cooling.'
     url: https://www.youtube.com/watch?v=wwNtg9FQUoA
-  - image: /business/fillers/foto_8.png
+  - video: https://www.youtube.com/embed/L9EahD4_ukY
     title: Bruxism
+    description: 'It is not well known that the gnashing of teeth or the bruxism can be treated with a botulinum toxin. A few injections in in the lower part of the jaw can sugnificantly improve the situation and make the pain dissapear.'
     url: https://www.youtube.com/watch?v=L9EahD4_ukY
-  - image: /business/fillers/foto_9.png
+  - video: https://www.youtube.com/embed/IqEhpkMfp34
     title: Gummy smile
+    description: 'One of the most important characteristic of one person is his smile. The esthetic standarts require about 80% of the teeth to be visible.This means that the gummy smile doesn`t have a place on your face. It is well know that it can be removed with botulinum toxin.'
     url: https://www.youtube.com/watch?v=IqEhpkMfp34
 ---
 # Video campaign that presents dr. Lilia Guduleva as a professional

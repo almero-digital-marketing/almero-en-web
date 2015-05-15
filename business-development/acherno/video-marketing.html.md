@@ -11,6 +11,36 @@ description: We craeted some video materials as the best way to present the busi
 summary: One of  the videos that we created provoked a quite of interest and after the advertising campaign was done it had reached a lot of potential costumers and was watched from over 400 people. Another video material, which we made for 'Acherno' has been already seen from over 15 000 people.
 featured: true
 featuredOrder: 20
+image: /business/acherno/video.jpg
+ref:
+  - video: https://www.youtube.com/embed/sg7P6PVflKI
+    title: 'Interior Design of apartment "The Alchemist"'
+    description: 'The alchemist was standing aside and was telling a strange story about himself. A story about transformation, journeys and for magic - in a way that only a few people know it. A story about how eveything merges.'
+    url: https://www.youtube.com/watch?v=sg7P6PVflKI
+  - video: https://www.youtube.com/embed/sq35Sy-n3ms
+    title: 'Interior of an apartament "A song for sweet dreams"'
+    description: 'A home in which you enjoy the calmness and the silence. The gentle and bright nuances of the interior carry you out into a world of fairy tales, in which you can hear the sound of a well known song for sweet dreams.'
+    url: https://www.youtube.com/watch?v=sq35Sy-n3ms
+  - video: https://www.youtube.com/embed/M4jqL6TMAjk
+    title: 'Interior of an apartament "Make up"'
+    description: 'For a background we used the advantage of the cold and hushed colours, which remains a trademark of the style: white, grey, ivory and in the center is the conception of the bright accents: yellow and turquoise.'
+    url: https://www.youtube.com/watch?v=M4jqL6TMAjk
+  - video: https://www.youtube.com/embed/CSRIXGosG9k
+    title: 'Interior of an apartment "Fume"'
+    description: 'The fume is at the same time solid and soft. Colored and colorless. The fume can`t be caught. It can fit in every space. It can transform in all kind of shapes. You can touch it, but you cannot caught it. You can just feel it.'
+    url: https://www.youtube.com/watch?v=CSRIXGosG9k
+  - video: https://www.youtube.com/embed/JCNqPWSNc6c
+    title: 'Interior of apartament "Bohemian"'
+    description: 'The obstruct lines do not bother the bohemians. They even find them inspiring. It might be called "two staright cornes", as the client proposed. In the whole apartment there are only two straight cornes, but now it is in a bohemian style.'
+    url: https://www.youtube.com/watch?v=JCNqPWSNc6c
+  - video: https://www.youtube.com/embed/CP2wz23Ue6g
+    title: 'Interior design of a house "Enjoy the life"'
+    description: 'The life is wonderful. The life is colourful. The life is motley. The life is a dream. The life is a dynamic. The life is suprisng. The life is a game. The life is a song. A true challenge. The life is love. Enjoy the life. Be happy.'
+    url: https://www.youtube.com/watch?v=CP2wz23Ue6g
+  - video: https://www.youtube.com/embed/LriUdhypRdM
+    title: 'Interior of an apartment "Sunflowers"'
+    description: 'Recently a part of the apartments come with their names. Sunflowers is one of them. Sunnny, warm and cozy are just some of the descriptions of this home. We decided that for sunny people and a sunny apartament this is the perfect name'
+    url: https://www.youtube.com/watch?v=LriUdhypRdM
 ---
 # Good things takes time
 The working process of creating the multimedia materials was developed in two several  ways – the part of our work was in the image processing, oriented for publishing on the web site, on the Facebook page and on the blog and on the second part of our work was oriented to the aranging, recording, editing and advertising of a niche related video. 

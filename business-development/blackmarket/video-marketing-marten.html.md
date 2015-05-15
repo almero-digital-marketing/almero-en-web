@@ -11,17 +11,13 @@ description: To popularize and to impose the new fashion line of DJ Marten, crea
 summary: To popularize and to imposed the new fashion line of DJ Marten, created together with Black Market, we filmed a series of video clips in which we focused on the original style of the clothes. After that we created a lot of fashionable videos with a small duration. Compared with the video materials, which advertise the services of Black Market, the aim of the second batch of videos was to give the visitor a positive emotions and a good mood.
 image: /business/blackmarket/marten-video.jpg
 ref:
-  - image: /portfolio/blackmarket/marten-concept.jpg
-    title: Marten X Black Market Conception and design
-    url: http://www.youtube.com/watch?v=yBc3RU8529Q
-  - image: /portfolio/blackmarket/marten-making.jpg
+  - video: http://www.youtube.com/embed/6V-mJV0CXzM
     title: Marten X Black Market Realization
+    description: 'Marten X Black Market includes the classical street view of the men clothes that we will get you noticed in the coffet at the morning and at the night club, when the night comes on.'
     url: http://www.youtube.com/watch?v=6V-mJV0CXzM
-  - image: /portfolio/blackmarket/marten-photo.jpg
-    title: Marten X Black Market Photo session
-    url: http://www.youtube.com/watch?v=2c9KUbYjHPU
-  - image: /portfolio/blackmarket/marten-collection.jpg
+  - video: http://www.youtube.com/embed/3sO4V-oOUHo
     title: Marten X Black Market Collection
+    description: The collection includes 6 daily basic clothes, that every man should has in his wardrobe: shirt, coat, t-shirt, shirt with a long sleeves,sweatshirt and a bomber ("flight") jacket.'
     url: http://www.youtube.com/watch?v=3sO4V-oOUHo
 featured: true
 featuredOrder: 16
