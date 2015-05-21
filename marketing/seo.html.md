@@ -1,5 +1,5 @@
 ---
-layout: carousel
+layout: scroll
 rel: /services/optimization
 highlight: /services/optimization/highlight
 parent: /home
@@ -10,7 +10,7 @@ bullets:
   - /services/optimization/strategy
   - /services/optimization/seo
 header: compact
-carousel:
+topics:
   -
     title: 'Long-term results'
     project: /portfolio/acherno
